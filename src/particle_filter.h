@@ -13,7 +13,6 @@
 #include <random>
 
 const double EPS= 0.00001;
-//#define EPS 0.00001
 
 struct Particle {
 
